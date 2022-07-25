@@ -12,3 +12,5 @@ https://www.freebsd.org/cgi/man.cgi?query=i2c
 
 
 
+https://ftdichip.com/products/ft2232hq/
+
